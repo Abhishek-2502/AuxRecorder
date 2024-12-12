@@ -33,7 +33,9 @@
 <p align="center">
     <img src="ScreenshotsNOtherResources/Splash.jpg" height="500" width="250" alt="Splash Screen">
     <img src="ScreenshotsNOtherResources/Home.jpg" height="500" width="250" alt="Recording Screen">
+    <img src="ScreenshotsNOtherResources/HomeRecording.jpg" height="500" width="250" alt="Recording">
     <img src="ScreenshotsNOtherResources/SavedRecording.jpg" height="500" width="250" alt="Recording List Screen">
+    <img src="ScreenshotsNOtherResources/SavedRecordingPlaying.jpg" height="500" width="250" alt="Recording Playing">
 </p>
 
 ---
@@ -119,7 +121,7 @@
 
 ## **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
