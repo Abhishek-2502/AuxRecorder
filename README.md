@@ -22,7 +22,8 @@
 - **Audio Recording**: Simple, quick, and efficient recording of high-quality audio.  
 - **Playback Controls**: Play, pause, and resume recordings with ease.  
 - **Recording Management**: Organize and view saved audio recordings efficiently.  
-- **Time Ago**: Displays how long ago a recording was made (e.g., "5 minutes ago").  
+- **Time Ago Feature**: Display when recordings were made (e.g., "2 hours ago").
+- **Intuitive UI**: Simplified navigation with a modern and user-friendly interface.
 - **Error Handling**: Handles permission issues, storage access, and invalid operations gracefully.  
 
 ---
@@ -62,15 +63,12 @@
    - Tap again to stop and save the recording.
 
 2. **View Recordings**:  
-   - Navigate to the recording list by selecting it from the bottom navigation.  
+   - Navigate to the recording list by selecting it from the button located to right side of record button.  
    - List shows all saved recordings along with the time they were made.
 
 3. **Playback**:  
    - Tap on any saved recording to play it.  
    - Use playback controls for pause, resume, and stop functionalities.
-
-4. **Time Ago**:  
-   - Recordings are displayed with the time elapsed since they were created, e.g., "2 hours ago".
 
 ---
 
